@@ -1,0 +1,51 @@
+Piyush Kunjilwar
+Boston MA | (617) 516-9145 | kunjilwar.p@northeastern.edu | linkedin.com/in/piyush-kunjilwar | github.com/piyush12kunjilwar
+Education
+Northeastern University, USA | Master of Science in Information Systems (GPA 3.83) Sep 2023 – Dec 2025
+Coursework: Web Development Methods and Tools, Data Structure and Algorithms, Cloud Computing and Network Structure
+Professional Experience
+Accenture, India | Software Engineer Sep 2022 – Aug 2023
+• Optimized system performance by refactoring legacy code and implementing scalable microservices architecture, reducing latency
+by 35% and improving system uptime to 99.9%
+• Developed and deployed RESTful APIs using Spring Boot and Node.js, enabling seamless integration with third-party services and
+improving data exchange efficiency by 40%
+• Designed and implemented real-time notification system using Kafka and WebSocket, improving user engagement by 25% and
+reducing response time to under 200ms
+• Collaborated with cross-functional teams to deliver cloud-based SaaS solution on AWS, leveraging EC2, S3, and Lambda, which
+reduced infrastructure costs by 20% while scaling to support 1M+ users
+• Improved code quality by introducing unit and integration testing frameworks (JUnit, Mockito), achieving 90% test coverage and
+reducing post-release defects by 30%
+General Motors, India | Software Engineer Intern Jan 2022 – Aug 2022
+• Developed and deployed microservices on GCP-based application using Spring Boot and Docker, reducing service response time by
+30% and improving scalability for handling 10,000+ concurrent users
+• Enhanced vehicle telemetry data processing by designing and implementing real-time data pipeline using Apache Kafka and AWS
+Lambda, reducing data latency by 40%
+• Optimized database performance by refactoring SQL queries and implementing indexing strategies, cutting query execution time
+by 50% for large-scale datasets
+• Automated CI/CD workflows using Jenkins and GitLab, reducing deployment time by 60% minimizing intervention in release process
+• Processed large-scale telemetry data with AWS EMR and PySpark, improving vehicle performance and cutting maintenance costs
+Technical Skills
+Programming Languages: Python, Java, C++, Scala, Typescript, R, Bash Scripting
+Frontend and Backend Development: React.js, React Native, Node.js, Spring Boot, Flask, RESTful APIs
+Cloud Computing: AWS (EC2, S3, RDS, Lambda, EMR, CloudWatch), Microsoft Azure (HDInsight, Blob Storage), Google Cloud Platform
+AI/ML & Data Engineering: TensorFlow, PySpark, LangChain, spaCy, Kafka, Pandas, NumPy
+DevOps/CI-CD: Jenkins, Docker, Kubernetes, GitLab, GitHub Actions
+Projects
+AI-Powered Dream Interpreter for Sleep Analysis | Link Jan 2024 – Mar 2024
+• Built an NLP-driven sleep analysis tool using GPT-4 and TensorFlow to interpret unstructured dream journals, achieving 85%
+accuracy in correlating user-reported patterns with clinical sleep disorder symptoms
+• Integrated real-time IoT sensor data (EEG, heart rate) with a React Native app, reducing sleep disorder misdiagnoses by 30% through
+dynamic feedback loops and personalized sleep hygiene recommendations
+• Slash data latency 50% using Apache Kafka on AWS Lambda, delivering sub-second sentiment analysis across regions, ages & genres
+• Boosted user retention 25% with a WebSocket-powered conversational UI for iterative feedback
+Sentiment Analysis & Visualization for Original Content | Link Dec 2023 – Feb 2024
+• Engineered a real-time sentiment dashboard using Streamlit and NLTK to process 1,000+ social comments/hour, identifying 60%
+positive sentiment for Netflix originals and enabling rapid A/B testing of marketing campaigns
+• Boosted recommendation relevance by 40% by integrating Claude AI to analyze emotional tone and demographic data, generating
+hyper-personalized content suggestions for 50+ global markets
+• Reduced data latency by 50% by deploying an Apache Kafka pipeline on AWS Lambda, allowing stakeholders to filter sentiment by
+region, age, and genre with sub-second response times
+• Automate executive reporting via REST APIs to Slack/Teams, cutting weekly analysis time from 8 hours to 15 mins
+Certifications
+Oracle Cloud Infrastructure 2024 Generative AI Professional | Link Career Essentials in Generative AI by Microsoft and LinkedIn | Link Jul 2024 – Jul 2026
+Jun 2024 – Jul 2026
